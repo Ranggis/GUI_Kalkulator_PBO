@@ -95,7 +95,3 @@ Dibuat dengan 🔥 oleh Ranggis
 > "Coding itu seperti menyusun puzzle, bedanya kamu bisa menciptakan puzzlenya sendiri."
 
 ---
-
-🎯 [Lihat Demo (Opsional jika ada .gif)](https://github.com/username/kalkulator-java-swing)
-
-📬 Hubungi saya di \[ranggis@gmail.com.com(ranggis@gmail.com)]
